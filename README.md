@@ -34,7 +34,7 @@ Make sure you have Python 3 installed.
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the script from the terminal:
 
@@ -61,7 +61,7 @@ Fetching activity for user: torvalds
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Only shows **recent public activity** (not full history)
 * Some events may not include full commit details
@@ -69,7 +69,7 @@ Fetching activity for user: torvalds
 
 ---
 
-## 🎯 What I Learned
+## What I Learned
 
 This project helped me practice:
 
@@ -80,7 +80,7 @@ This project helped me practice:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add colored terminal output
 * Filter event types
