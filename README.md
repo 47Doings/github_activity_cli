@@ -2,7 +2,6 @@
 
 A simple command-line tool that fetches and displays the recent public activity of any GitHub user using the GitHub API.
 
----
 
 ##  Features
 
@@ -11,7 +10,6 @@ A simple command-line tool that fetches and displays the recent public activity 
 * Handles errors (invalid users, network issues)
 * Built using only Python standard libraries (no external packages)
 
----
 
 ##  Tech Stack
 
@@ -19,7 +17,6 @@ A simple command-line tool that fetches and displays the recent public activity 
 * urllib (for HTTP requests)
 * JSON (for parsing API responses)
 
----
 
 ## Installation
 
@@ -32,7 +29,6 @@ cd github_activity_cli
 
 Make sure you have Python 3 installed.
 
----
 
 ## Usage
 
@@ -59,7 +55,6 @@ Fetching activity for user: torvalds
 - Starred repo-name
 ```
 
----
 
 ## Limitations
 
@@ -67,7 +62,6 @@ Fetching activity for user: torvalds
 * Some events may not include full commit details
 * GitHub API rate limits unauthenticated requests
 
----
 
 ## What I Learned
 
@@ -78,7 +72,6 @@ This project helped me practice:
 * Building CLI applications
 * Error handling and defensive programming
 
----
 
 ## Future Improvements
 
@@ -89,7 +82,7 @@ This project helped me practice:
 
 ---
 
-## 📌 Author
+## Author
 
 Built as a learning project to practice Python and API integration.
 https://roadmap.sh/projects/github-user-activity
